@@ -13,7 +13,7 @@
     </properties>
 
     <dependencies>
-        <!-- Selenium Java ve ChromeDriver bağımlılıkları -->
+        
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
@@ -26,7 +26,6 @@
             <version>4.10.0</version>
         </dependency>
 
-        <!-- SLF4J ve Logback bağımlılıkları -->
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
